@@ -7,3 +7,4 @@ requests
 streamlit
 pyttsx3
 scipy
+langchain
