@@ -7,4 +7,4 @@ requests
 streamlit
 pyttsx3
 scipy
-langchain
+langchain==0.2.17
