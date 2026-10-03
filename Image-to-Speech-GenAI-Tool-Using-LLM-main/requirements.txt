@@ -6,3 +6,4 @@ python-dotenv
 requests
 streamlit
 pyttsx3
+scipy
